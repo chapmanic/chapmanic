@@ -24,7 +24,7 @@ I'm on the lookout for opportunities that challenge me, push me out of my comfor
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/achapmanmanager/)
+- **LinkedIn:** (https://www.linkedin.com/in/achapmanmanager/)
 - **Email:** aden@accessmycare.co.uk
 
 Let's connect and explore how we can create something amazing together. Thank you for stopping by my GitHub profile!
