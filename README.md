@@ -14,7 +14,7 @@ As a passionate learner, I've embarked on a quest to master the art of writing s
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** (https://www.linkedin.com/in/achapmanmanager/)
+- **LinkedIn:** https://www.linkedin.com/in/achapmanmanager/
 - **Email:** aden@accessmycare.co.uk
 
 Let's connect and explore how we can create something amazing together. Thank you for stopping by my GitHub profile!
