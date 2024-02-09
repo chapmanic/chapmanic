@@ -8,7 +8,7 @@ My toolbox includes languages such as; HTML, CSS (Bootstrap), JavaScript (TypeSc
 
 ## 📚 Learning Journey
 
-- **Web Development:** Building responsive web applications which utilise CRUD and REST. I have experience developing with MERN stack.
+- **Web Development:** Building responsive web applications which utilise CRUD and REST. I have experience developing with MEAN stack.
 - **Software Engineering:** Diving deep into algorithms, data structures, and design patterns to craft efficient, scalable software.
 ## 📫 Get In Touch
 
