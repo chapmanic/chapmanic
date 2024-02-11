@@ -1,7 +1,6 @@
 # Hello! 👋
 
-I'm Aden Chapman, I'm on an exhilarating journey into the realms of coding, software development, and web design. With each line of code, I'm weaving the fabric of my future in tech, exploring the limitless possibilities that programming offers.
-
+I'm Aden, I'm on an journey coding, software development, and web design.
 ## 🚀 About Me
 
 My toolbox includes languages such as; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python. I have experience working with frameworks such as Angular & Django. I also have a deep understanding of SQL & NoSQL (MongoDB) Database management.
