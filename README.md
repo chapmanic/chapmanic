@@ -14,7 +14,7 @@ My toolbox includes languages such as; HTML, CSS (Bootstrap), JavaScript (TypeSc
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** https://www.linkedin.com/in/achapmanmanager/
+- **LinkedIn:** https://www.linkedin.com/in/aden-chapman-devops/
 - **Email:** aden@accessmycare.co.uk
 
 Let's connect. Thank you for stopping by my GitHub profile!
