@@ -1,17 +1,21 @@
 # Hello! 👋
 
-I'm Aden, I'm on an journey coding, software development, and web design.
+I'm Aden, I am a web and software developer.
 ## 🚀 About Me
 
-My toolbox includes languages such as; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python. I have experience working with frameworks such as Angular & Django. I also have a deep understanding of SQL & NoSQL (MongoDB) Database management.
+My toolbox includes languages such as; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python. I have experience working with frameworks such as Angular & Django.
 
-## 📚 Learning Journey
+## 📚 What I Do
 
-- **Web Development:** Building responsive web applications which utilise CRUD and REST. I have experience developing with MEAN stack.
-- **Software Engineering:** Diving deep into algorithms, data structures, and design patterns to craft efficient, scalable software.
+- System administration: Bash, PowerShell
+- Languages: Python, JavaScript, TypeScript
+- Web Development: HTML, CSS, JavaScript, TypeScript, Express, Node.js, Flask, Django, Bootstrap, Photoshop, Figma and UX/UI principles, User authentication and registration, Utilisation of Bcrypt
+- Database: SQL, MongoDB, with Mongoose as the ODM (Object Data Modeling) library for easier data schemas and interactions.
+
+- 
 ## 📫 Get In Touch
 
 - **LinkedIn:** https://www.linkedin.com/in/achapmanmanager/
 - **Email:** aden@accessmycare.co.uk
 
-Let's connect and explore how we can create something amazing together. Thank you for stopping by my GitHub profile!
+Let's connect. Thank you for stopping by my GitHub profile!
