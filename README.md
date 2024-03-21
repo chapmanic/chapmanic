@@ -1,4 +1,4 @@
-Proficient in; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python. I have experience working with frameworks such as Angular & Django.
+I am a Professional Full-Stack Developer. I am Proficient in; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python.
 
 ## 📚 Technical skills
 
