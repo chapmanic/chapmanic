@@ -1,4 +1,4 @@
-I am a Professional Full-Stack Developer. I am Proficient in; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python.
+I am a Professional Full-Stack Developer. I am Proficient in; HTML, CSS (Bootstrap), JavaScript (TypeScript, Node.js & Express) and Python (Flask & Django).
 
 ## 📚 Technical skills
 
