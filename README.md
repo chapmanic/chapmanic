@@ -2,7 +2,8 @@
 
 - System administration: Bash, PowerShell
 - Languages: Python & JavaScript
-- Web Development: HTML, CSS, JavaScript, TypeScript, Express, Node.js, Flask, Django, Bootstrap, Photoshop, Figma and UX/UI principles, User authentication and registration.
+- Web Development: HTML, CSS, JavaScript, Node.js, Flask, Django, Bootstrap CSS
+- DevOps: Terraform (IaC), AWS, Docker
 - Database: SQL & MongoDB.
 
 ## 📫 Contact Details
