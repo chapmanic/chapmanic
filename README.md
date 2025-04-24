@@ -1,9 +1,9 @@
 ## Technical skills
 
+- Languages: Python & Javascript
+- Web Development: Django inc. REST API, ReactJS and Node.js.
+- DevOps: Terraform (IaC), AWS, Docker.
 - System administration: Bash, PowerShell
-- Languages: Python & JavaScript
-- Web Development: HTML, CSS, JavaScript, Node.js, Flask, Django, Bootstrap CSS
-- DevOps: Terraform (IaC), AWS, Docker
 - Database: SQL & MongoDB.
 
 ## 📫 Contact Details
